@@ -1,0 +1,3 @@
+﻿  homework22.cpp
+C:\Users\murad\source\repos\homework22\homework22\homework22.cpp(55,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  homework22.vcxproj -> C:\Users\murad\source\repos\homework22\x64\Debug\homework22.exe
